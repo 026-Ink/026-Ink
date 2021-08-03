@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ***WARNING 注意***
 
-### **WARNING 注意**
 ### 我是个傻逼！
+
 ### I'm a fucking idiot!
 
 <a href="https://github.com/026-Ink">
