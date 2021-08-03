@@ -1,6 +1,4 @@
-### Hi there 👋
-### I'm Ink, a Chinese student.
-### よろしく！
+### Hi there 👋 I'm Ink, a Chinese student. よろしく！
 
 <!--
 **026-Ink/026-Ink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###
+###
 ### ***WARNING 注意***
-
-### 我是个傻逼！
-
+### 我是个傻逼!!
 ### I'm a fucking idiot!
 
 <a href="https://github.com/026-Ink">
