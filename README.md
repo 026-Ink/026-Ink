@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### I'm a fucking idiot!
 
 <a href="https://github.com/NicholasYang21">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=026-Ink" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasYang21" />
 </a>
 <a href="https://github.com/NicholasYang21">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=026-Ink" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasYang21" />
 </a>
