@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ink, a Chinese student. よろしく！
+### Hi there 👋 I'm Ink, a Chinese secondary school student, and I'm an otaku. よろしく！
 
 <!--
 **026-Ink/026-Ink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###
-###
-### ***WARNING 注意***
-### 我是个傻逼!!
-### I'm a fucking idiot!
 
 <a href="https://github.com/NicholasYang21">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasYang21" />
