@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Ink, a Chinese secondary school student, and I'm an otaku. よろしく！
+### Hi there 👋 I'm Ink, a Chinese secondary school student.
+
+<img src="https://count.getloli.com/get/@beanflame?theme=gelbooru">
 
 <a href="https://github.com/NicholasYang21">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasYang21" />
